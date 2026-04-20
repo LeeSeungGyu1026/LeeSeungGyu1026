@@ -33,8 +33,8 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 -->
 
 ![Image](https://github.com/user-attachments/assets/41d0d8c3-7a8e-472f-8826-d67756b64bab)
+(Play the video!)
 <img width="531" height="690" alt="Image" src="https://github.com/user-attachments/assets/b27ee485-f346-4f81-8b09-970dd692e38e" />
-
 
 - Built a simulation environment to evaluate mission allocation algorithms for multiple UGVs.
 - Using ROS2 and Gazebo for simulation, with Python for testing and implementation.
@@ -43,7 +43,7 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 ---
 
 ### ✈️ Ducted-Fan VTOL Platform
-<img width="3234" height="1127" alt="Image" src="https://github.com/user-attachments/assets/4c36484d-0fc5-421b-8fec-2fb4d52ed15d" />
+<img width="969" height="339" alt="Image" src="https://github.com/user-attachments/assets/4c36484d-0fc5-421b-8fec-2fb4d52ed15d" />
 
 - Designed and validated a **custom ducted-fan VTOL rig** instrumented with high-precision sensors.  
 - Developed a **MATLAB + DAQ** pipeline for thrust/torque data acquisition and analysis, achieving 10 cm position accuracy.
