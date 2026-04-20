@@ -1,8 +1,10 @@
 
 # 👋 Hi, I'm Seunggyu Lee
 
-I'm an undergraduate student and researcher at **Korea Aerospace University (KAU)**, majoring in **Aerospace Engineering**.
-I currently work as an undergraduate research member in the **Autonomous Systems and Optimization Laboratory (ASOL)**.
+I'm a master's student in Aerospace Engineering at Korea Aerospace University (KAU).
+
+I work in the **Autonomous Systems and Optimization Laboratory (ASOL)**.
+
 My work lies at the intersection of **robotics, autonomy, and language-based reasoning**, where I explore how **large language models (LLMs)** can enhance the **planning and adaptability of autonomous robotic systems**.
 
 ---
@@ -55,7 +57,7 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 **Lee, S.**, Oh, S., Jeon, S., Park, Y., Lee, S., Choi, G., & Jang, D.-S. (2024).  
 *On-Device Vision Language Model Based Natural Language Mission Execution Framework.*  
 IEEE 14th International Conference on Control, Automation and Information Sciences (ICCAIS 2025).
-📄 [Paper (PDF)](https://github.com/ruga1026/ruga1026/blob/main/On-Device%20Vision%20Language%20Model%20Based%20Natural%20Language%20Mission%20Execution%20Framework.pdf)
+📄 [Paper (PDF)](https://github.com/LeeSeungGyu1026/LeeSeungGyu1026/blob/main/On-Device%20Vision%20Language%20Model%20Based%20Natural%20Language%20Mission%20Execution%20Framework.pdf)
 
 ---
 
